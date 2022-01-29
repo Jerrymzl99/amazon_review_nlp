@@ -23,4 +23,3 @@ The [Amazon dataset](http://jmcauley.ucsd.edu/data/amazon/index.html) contains t
 *  **summary** - Headline summary of the review, *string*
 *  **unixReviewTime** - Unix Time of when the review was posted, *string*
 
-<h4 align="center">Reports</h4>
